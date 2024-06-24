@@ -7,7 +7,6 @@ const port = process.env.PORT // Set PORT
 const db_name = process.env.DB_NAME // Set Database name
 
 const uri = process.env.MONGODB_URI  // Set MongoDB URI
-// const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 const client = new MongoClient(uri)
 
 async function connectToDatabase() {
