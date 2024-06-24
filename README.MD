@@ -25,6 +25,11 @@ Below is the response body of the API :
 - `phrase`   : A Phrase cheat code that work only for PC Platform.
 - `switchcode` : A Cheat code for Nintendo Switch Platform.
 
+### CONTAINER IMAGE VERSION
+
+Container image version is available as Package in this repository.
+Use the `docker-compose.yml` to build the container.
+
 ### Disclaimer
 
 This repository provides information about available cheats in various Grand Theft Auto (GTA) games.
