@@ -1,10 +1,17 @@
 {
   "name": "gta-cheats-api",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongodb": "^6.7.0"
-  }
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "api"
+  ],
+  "author": "Gesang Paudra Jaya",
+  "license": "MIT"
 }
