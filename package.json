@@ -1,0 +1,10 @@
+{
+  "name": "GTA CHEATS API",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
